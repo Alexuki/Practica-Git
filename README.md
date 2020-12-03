@@ -96,3 +96,6 @@ Realizar las siguientes tareas dentro de Visual Studio Code:
 
 ▪	Software para elaboración de documentos de texto.
 ▪	Página de Git: https://git-scm.com/
+
+Repositorio remoto para la práctica DAM-CD-UD2-PR.01
+
