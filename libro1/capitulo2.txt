@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Este el cápitulo 2 del libro 1
-=======
 Capítulo 2: Carnero asado 
 
 Bilbo se levantó de un salto, y poniéndose la bata entró en el comedor. Allí no 
@@ -11,4 +8,4 @@ cocina. Parecía que no hubiera quedado ninguna olla ni tartera sin usar. La tar
 de fregarlo todo fue tan tristemente real que Bilbo se vio obligado a creer que la 
 reunión de la noche anterior no había sido parte de una pesadilla, como casi había 
 esperado.
->>>>>>> a4f843c5dacfc6815de082fc497983c40cb9832c
+
